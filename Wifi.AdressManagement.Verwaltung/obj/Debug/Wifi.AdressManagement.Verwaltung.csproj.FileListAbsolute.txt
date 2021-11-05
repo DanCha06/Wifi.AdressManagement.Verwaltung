@@ -1,0 +1,7 @@
+C:\Users\chapmand\source\repos\Wifi.AdressManagement.Verwaltung\bin\Debug\Wifi.AdressManagement.Verwaltung.exe.config
+C:\Users\chapmand\source\repos\Wifi.AdressManagement.Verwaltung\bin\Debug\Wifi.AdressManagement.Verwaltung.exe
+C:\Users\chapmand\source\repos\Wifi.AdressManagement.Verwaltung\bin\Debug\Wifi.AdressManagement.Verwaltung.pdb
+C:\Users\chapmand\source\repos\Wifi.AdressManagement.Verwaltung\obj\Debug\Wifi.AdressManagement.Verwaltung.csproj.AssemblyReference.cache
+C:\Users\chapmand\source\repos\Wifi.AdressManagement.Verwaltung\obj\Debug\Wifi.AdressManagement.Verwaltung.csproj.CoreCompileInputs.cache
+C:\Users\chapmand\source\repos\Wifi.AdressManagement.Verwaltung\obj\Debug\Wifi.AdressManagement.Verwaltung.exe
+C:\Users\chapmand\source\repos\Wifi.AdressManagement.Verwaltung\obj\Debug\Wifi.AdressManagement.Verwaltung.pdb
